@@ -1,4 +1,4 @@
-package ru.gb.jtwo.lthree.home;
+package home;
 
 public class Person {
 
